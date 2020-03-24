@@ -1,2 +1,5 @@
-# web
-Jimar's personal web site
+Jimar Garcia
+============
+
+# Welcome
+Hello world! Welcome to my personal website.
